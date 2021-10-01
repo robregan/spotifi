@@ -12,7 +12,7 @@ export default function Login() {
     >
       <a className="btn btn-success btn-lg" href={AUTH_URL}>
         Login With Spotify
-      </a>  
+      </a>    
     </Container>
   )
 }
